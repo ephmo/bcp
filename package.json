@@ -3,8 +3,8 @@
   "version": "0.1.0",
   "scripts": {
     "dev": "serve src",
-    "lint": "eslint src/",
-    "format": "prettier --check src/"
+    "lint": "eslint .",
+    "format": "prettier --check ."
   },
   "type": "module",
   "devDependencies": {
