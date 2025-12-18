@@ -2,6 +2,7 @@
 
 ![Stage](https://img.shields.io/badge/stage-alpha-orange)
 ![Build](https://img.shields.io/github/actions/workflow/status/ephmo/bcp/deploy.yml)
+![Coverage](https://img.shields.io/badge/coverage-10%25-red)
 ![License](https://img.shields.io/github/license/ephmo/bcp)
 
 ## License
